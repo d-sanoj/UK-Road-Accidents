@@ -26,7 +26,8 @@ The dataset used in this project was sourced from [insert data source]. It inclu
 - Comparative analysis of accident trends over time
 
 ## Screenshots
-[Insert screenshots of your dashboard here]
+![Excel Road Accidents Project](https://github.com/d-sanoj/UK-Road-Accidents/assets/31980486/fb607f7a-943f-4d7b-b9cc-35a36738bfdf)
+
 
 ## How to Use
 1. Clone this repository to your local machine.
